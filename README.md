@@ -1,4 +1,4 @@
-### A Borehole Acoustics Corner
+### Just a borehole acoustics corner
 Always new ideas! (some of them work...)
 
 Hi! I'm Gabriel Gallardo-Giozza, Graduate Research Assistant at The University of Texas at Austin.
