@@ -4,7 +4,6 @@ Always new ideas! (some of them work...)
 Hi! I'm Gabriel Gallardo-Giozza, Graduate Research Assistant at The University of Texas at Austin.
 
 I created this space to share some scripts, practical exercises and other useful resources mostly focused on borehole acoustic principles and applications towards petrophysics, geomechanics and seismic. Most of the scripts are in Python or Matlab.
-I am updating this repository weekly/bi-weekly with new or updated scripts.
 
 💬 Please feel free to contact me for any questions/suggestions/requests!
 
