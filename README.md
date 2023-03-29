@@ -2,6 +2,7 @@
 Always new ideas! (some of them work...)
 
 Hi! I'm Gabriel Gallardo-Giozza, Graduate Research Assistant at The University of Texas at Austin.
+My Advisors are Carlos Torres-Verdin and D. Nicolas Espinoza.
 
 I created this space to share some scripts, practical exercises and other useful resources mostly focused on borehole acoustic principles and applications towards petrophysics, geomechanics and seismic. Most of the scripts are in Python or Matlab.
 
